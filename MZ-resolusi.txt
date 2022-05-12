@@ -1,7 +1,6 @@
 MZ-resolusi
 -belajar HTML
   -pengenalan
-  -dasar
   -lanjut 01
  -belajar CSS
   -pengenalan
