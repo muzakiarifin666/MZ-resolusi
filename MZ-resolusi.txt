@@ -1,5 +1,6 @@
-MZ-reslusi
+MZ-resolusi
 -belajar HTML
--belajar CSS
+  -pengenalan
+ -belajar CSS
 -belajar  JAVA
 -belajar JS
