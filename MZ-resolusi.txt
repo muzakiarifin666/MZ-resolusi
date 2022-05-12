@@ -1,5 +1,7 @@
 MZ-reslusi
 -belajar HTML
 -belajar CSS
+  -INTROD
+  -DASAR
 -belajar  JAVA
 -belajar JS
